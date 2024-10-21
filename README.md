@@ -2,7 +2,7 @@
 
 ## 👯 I’m looking to collaborate on a new crypto project.
 
-## 📫 How to reach me: [![mattellison.dev](https://mattellison.dev)
+## 📫 How to reach me: [mattellison.dev](https://mattellison.dev)
 
 <!--
 **MattEllison95/MattEllison95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
