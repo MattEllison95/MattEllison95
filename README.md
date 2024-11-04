@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-## 👯 I’m looking to collaborate on a new crypto project.
+## Crypto Project coming soon!
 
 ## 📫 How to reach me: [mattellison.dev](https://mattellison.dev)
 
